@@ -7,7 +7,7 @@ export default function home() {
   return (
     <div>
       <p style={{ fontSize: state }}>Hello Shubham </p>
-      <button onClick={() => setstate(state + 1)}>CLick Me</button>
+      <button onClick={() => setstate(state + 1)}>CLick Me thanks</button>
     </div>
   );
 }
